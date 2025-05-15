@@ -1,0 +1,1721 @@
+<------------------------------------------------------INDEX.HTML----------------------------------------------------------------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduPro</title>
+    <link rel="icon" href="D:\web pro\img\download.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" >
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Navigation-->
+   
+    <nav>
+        <img src="D:\web pro\img\download.png" alt="">
+        <div class="navigation">
+            <ul>
+                <li><a class="active" href="#">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="course.html">Courses</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home -->
+
+    <section id="home">
+        <h2>Enhance Your Future With EduPro</h2>
+        <p> EduPro brings you a world-class educational experience 
+            in the pristine surroundings of a tranquil south Indian town. Nature is the closest
+            companion on the campus that houses institutes offering the best in education.
+            Come explore EduPro and evolve into a technology-enabled future.
+        </p>
+        <div class="btn">
+            <a class="blue" href="about.html">Learn More</a>
+            <a class="yellow" href="course.html">Visit Courses</a>
+        </div>
+    </section>
+
+    <!-- features -->
+   
+    <section id="features">
+        <h1>Awesome Features</h1>
+        <p>Replenish man have thing gathering lights yielding shall you</p>
+        <div class="fea-base">
+            <div class="fea-box">
+                <i class="fas fa-graduation-cap"></i>
+                <h3>Scholarship Facility</h3>
+                <p>One make creepth, man bearing firmament won't great heaven</p>
+            </div>
+            <div class="fea-box">
+                <i class="fas fa-file"></i>
+                <h3>Online courses</h3>
+                <p>One make creepth, man bearing firmament won't great heaven</p>
+            </div>
+            <div class="fea-box">
+                <i class="fas fa-award"></i>
+                <h3>Global certification</h3>
+                <p>One make creepth, man bearing firmament won't great heaven</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- courses -->
+   
+    <section id="course">
+        <h1>Our Popular Courses</h1>
+        <p>Replenish man have thing gathering lights yielding shall you</p>
+        <div class="course-box">
+
+            <div class="courses">
+                <img src="D:\web pro\img\c1.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>JavaScrpiy Beginners course</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹160.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c7.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>C++</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹180.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c2.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Python</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹150.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c3.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Introdution to html</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹100.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c4.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Flutter</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹200.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c6.png" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Java</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹160.00
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Registration -->
+
+    <section id="registration">
+        <div class="reminder">
+            <p>100+ online courses for free</p>
+            <h1>Register To Get It</h1>
+        </div>
+        
+        <div class="form">
+            <h3>Create Free Account NOW!</h3>
+            <input type="text" placeholder="Name" name="" id="">
+            <input type="text" placeholder="Email Address" name="" id="">
+            <input type="text" placeholder="Phone Number" name="" id="">
+            <div class="btn">
+                <a class="yellow" href="#">Submit Form</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- profiles -->
+
+    <section id="experts">
+        <h1>Community Experts</h1>
+        <p>Replenish man have thing gathering lights yielding shall you</p>
+        <div class="expert-box">
+
+            <div class="profile">
+                <img src="D:\web pro\img\profile.jpeg" alt="">
+                <h6>Ankith KV</h6>
+                <p>Html & CSS Design</p>
+                <div class="pro-links">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-linkedin-in"></i>
+                </div>
+            </div>  
+            
+            <div class="profile">
+                <img src="D:\web pro\img\profile.jpeg" alt="">
+                <h6>Nehal KK</h6>
+                <p>Html & CSS Design</p>
+                <div class="pro-links">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-linkedin-in"></i>
+                </div>
+            </div>   
+
+            <div class="profile">
+                <img src="D:\web pro\img\profile.jpeg" alt="">
+                <h6>Mohammed Firzul EK</h6>
+                <p>Kaat kozhi firzuu</p>
+                <div class="pro-links">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-linkedin-in"></i>
+                </div>
+            </div>   
+        
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-col">
+            <h3>Top Products</h3>
+            <li>Manage Reputation</li>
+            <li>Power Tool</li>
+            <li>Managed Website</li>
+            <li>Marketing Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Quick Links</h3>
+            <li>Jobs</li>
+            <li>Brand Assets</li>
+            <li>Investor Relation</li>
+            <li>Terms of Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Guides</li>
+            <li>Research</li>
+            <li>Experts</li>
+            <li>Marketing</li>
+        </div>
+        <div class="footer-col">
+            <h3>News letter</h3>
+            <p>You can trust us. We only send promo offers</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Address">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+            </div>
+        </div> 
+        
+        <div class="copyright">
+            <p>Copyright ⓒ2022 All rights reserved | Designed by AKV</p>
+            <div class="pro-links">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-linkedin-in"></i>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+
+
+<---------------------------------------------------------ABOUT.HTML-------------------------------------------------------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduPro</title>
+    <link rel="icon" href="D:\web pro\img\download.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" >
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Navigation-->
+   
+    <nav>
+        <img src="D:\web pro\img\download.png" alt="">
+        <div class="navigation">
+            <ul>
+                <li><a href="Index.html">Home</a></li>
+                <li><a class="active" href="about.html">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="course.html">Courses</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home -->
+
+    <section id="about-home">
+        <h2>About EduPro</h2>
+    </section>
+
+    <section id="about-container">
+        <div class="about-img">
+            <img src="D:\web pro\img\b.jpeg" alt="">
+        </div>
+
+        <div class="about-text">
+            <h2>Welcome to EduPro, Enhance your skills with best Online Courses</h2>
+            <p>You can start and finish one of these popular courses
+                in under a day- for free! Check out the list below. Take
+                the course for free.
+            </p>
+            <div class="about-fe">
+                <img src="D:\web pro\img\fe1.png" alt="">
+                <div class="fe-text">
+                    <h5>200+ courses</h5>
+                    <p>You can complete these popular courses in our site</p>
+                </div>
+            </div>
+            <div class="about-fe">
+                <img src="D:\web pro\img\fe2.png" alt="">
+                <div class="fe-text">
+                    <h5>Lifetime Access</h5>
+                    <p>You can complete these popular courses in our site</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- features -->
+   
+    <section id="features">
+        <h1>Awesome Features</h1>
+        <p>Replenish man have thing gathering lights yielding shall you</p>
+        <div class="fea-base">
+            <div class="fea-box">
+                <i class="fas fa-graduation-cap"></i>
+                <h3>Scholarship Facility</h3>
+                <p>One make creepth, man bearing firmament won't great heaven</p>
+            </div>
+            <div class="fea-box">
+                <i class="fas fa-file"></i>
+                <h3>Online courses</h3>
+                <p>One make creepth, man bearing firmament won't great heaven</p>
+            </div>
+            <div class="fea-box">
+                <i class="fas fa-award"></i>
+                <h3>Global certification</h3>
+                <p>One make creepth, man bearing firmament won't great heaven</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="trust">
+        <h1>Trusted By</h1>
+        <p>Replenish man have thing gathering lights yielding shall you</p>
+        <div class="trust-img">
+            <img src="D:\web pro\img\t1.png" alt="">
+            <img src="D:\web pro\img\t2.png" alt="">
+            <img src="D:\web pro\img\t3.png" alt="">
+            <img src="D:\web pro\img\t4.png" alt="">
+            <img src="D:\web pro\img\t5.png" alt="">
+            <img src="D:\web pro\img\t6.png" alt="">
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="footer-col">
+            <h3>Top Products</h3>
+            <li>Manage Reputation</li>
+            <li>Power Tool</li>
+            <li>Managed Website</li>
+            <li>Marketing Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Quick Links</h3>
+            <li>Jobs</li>
+            <li>Brand Assets</li>
+            <li>Investor Relation</li>
+            <li>Terms of Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Guides</li>
+            <li>Research</li>
+            <li>Experts</li>
+            <li>Marketing</li>
+        </div>
+        <div class="footer-col">
+            <h3>News letter</h3>
+            <p>You can trust us. We only send promo offers</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Address">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+            </div>
+        </div> 
+        
+        <div class="copyright">
+            <p>Copyright ⓒ2022 All rights reserved | Designed by AKV</p>
+            <div class="pro-links">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-linkedin-in"></i>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+
+<-----------------------------------------------------BLOG.HTML------------------------------------------------------------------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduPro</title>
+    <link rel="icon" href="D:\web pro\img\download.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" >
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Navigation-->
+   
+    <nav>
+        <img src="D:\web pro\img\download.png" alt="">
+        <div class="navigation">
+            <ul>
+                <li><a href="Index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a class="active" href="blog.html">Blog</a></li>
+                <li><a href="course.html">Courses</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home -->
+
+    <section id="about-home">
+        <h2>Blog</h2>
+    </section>
+
+    <section id="blog-container">
+        <div class="blogs">
+            <div class="post">
+                <img src="D:\web pro\img\blog1.jpeg" alt="">
+                <h3> Learn Web Development In The Easiest Way</h3>
+                <p>Web Development is the building and maintenance of wesites;
+                    it's the work that happens behind the scenes to make a 
+                    website look great, work fast and perform well with a seamless
+                    user experience. Web developers, or 'devs', do this by using 
+                    a variety of coding languages
+                </p>
+                <a href="post.html">Read More</a>
+            </div>
+            <div class="post">
+                <img src="D:\web pro\img\blog2.jpeg" alt="">
+                <h3>Why you should consider Flutter for mobile app</h3>
+                <p>The first version of Flutter was known as "Sky" 
+                    and ran on the Android operating system. It was 
+                    unveiled at the 2015 Dart developer summit with 
+                    the stated intent of being able to render consistently 
+                    at 120 frames per second.
+                </p>
+                <a href="post2.html">Read More</a>
+            </div>
+            <div class="post">
+                <img src="D:\web pro\img\blog3.jpeg" alt="">
+                <h3> Learn Python programming for the absolute beginner</h3>
+                <p>Python is dynamically-typed and garbage-collected.
+                    It supports multiple programming paradigms, including structured
+                    (particularly procedural), object-oriented and functional 
+                    programming. It is often described as a "batteries included" 
+                    language due to its comprehensive standard library.
+                </p>
+                <a href="post3.html">Read More</a>
+            </div>
+        </div>
+
+        <div class="cate">
+            <h2>Categories</h2>
+            <hr>
+            <a href="#">Web Development</a>
+            <hr>
+            <a href="#">Web Design</a>
+            <hr>
+            <a href="#">App Development</a>
+            <hr>
+            <a href="#">Frontend Web</a>
+            <hr>
+            <a href="#">Python program</a>
+            <hr>
+            <a href="#">JavaScript</a>
+            <hr>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-col">
+            <h3>Top Products</h3>
+            <li>Manage Reputation</li>
+            <li>Power Tool</li>
+            <li>Managed Website</li>
+            <li>Marketing Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Quick Links</h3>
+            <li>Jobs</li>
+            <li>Brand Assets</li>
+            <li>Investor Relation</li>
+            <li>Terms of Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Guides</li>
+            <li>Research</li>
+            <li>Experts</li>
+            <li>Marketing</li>
+        </div>
+        <div class="footer-col">
+            <h3>News letter</h3>
+            <p>You can trust us. We only send promo offers</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Address">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+            </div>
+        </div> 
+        
+        <div class="copyright">
+            <p>Copyright ⓒ2022 All rights reserved | Designed by AKV</p>
+            <div class="pro-links">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-linkedin-in"></i>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+
+
+<--------------------------------------------------------------COURSE.HTML-------------------------------------------------------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduPro</title>
+    <link rel="icon" href="D:\web pro\img\download.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" >
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Navigation-->
+   
+    <nav>
+        <img src="D:\web pro\img\download.png" alt="">
+        <div class="navigation">
+            <ul>
+                <li><a href="Index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a class="active" href="course.html">Courses</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home -->
+
+    <section id="about-home">
+        <h2>Enroll Our Popular Courses And Skill Up</h2>
+    </section>
+
+     <!-- courses -->
+   
+     <section id="course">
+        <h1>Our Popular Courses</h1>
+        <p>Replenish man have thing gathering lights yielding shall you</p>
+        <div class="course-box">
+
+            <div class="courses">
+                <img src="D:\web pro\img\c1.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>JavaScrpiy Beginners course</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹160.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c7.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>C++</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹180.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c2.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Python</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹150.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c3.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Introdution to html</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹100.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c4.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Flutter</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹200.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c6.png" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Java</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹160.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c8.png" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>MySql</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹150.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c9.png" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>php</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹100.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c10.png" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Node js</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹200.00
+                </div>
+            </div>
+
+            <div class="courses">
+                <img src="D:\web pro\img\c11.jpeg" atl="">
+                <div class="details">
+                    <span>Updated 18/12/22</span>
+                    <h6>Kotlin</h6>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(256)</span>
+                    </div>
+                </div>
+                <div class="cost">
+                    ₹160.00
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="footer-col">
+            <h3>Top Products</h3>
+            <li>Manage Reputation</li>
+            <li>Power Tool</li>
+            <li>Managed Website</li>
+            <li>Marketing Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Quick Links</h3>
+            <li>Jobs</li>
+            <li>Brand Assets</li>
+            <li>Investor Relation</li>
+            <li>Terms of Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Guides</li>
+            <li>Research</li>
+            <li>Experts</li>
+            <li>Marketing</li>
+        </div>
+        <div class="footer-col">
+            <h3>News letter</h3>
+            <p>You can trust us. We only send promo offers</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Address">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+            </div>
+        </div> 
+        
+        <div class="copyright">
+            <p>Copyright ⓒ2022 All rights reserved | Designed by AKV</p>
+            <div class="pro-links">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-linkedin-in"></i>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+
+
+<--------------------------------------------------------------CONTACT.HTML------------------------------------------------------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduPro</title>
+    <link rel="icon" href="D:\web pro\img\download.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" >
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--Navigation-->
+   
+    <nav>
+        <img src="D:\web pro\img\download.png" alt="">
+        <div class="navigation">
+            <ul>
+                <li><a href="Index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="course.html">Courses</a></li>
+                <li><a class="active" href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home -->
+
+    <section id="about-home">
+        <h2>Contact Us</h2>
+    </section>
+
+    <section id="contact">
+        <div class="getin">
+            <h2>Get in Touch</h2>
+            <p>Looking for help? Fill the form and start a new adventure</p>
+
+            <div class="getin-details">
+                <h3>Headquaters</h3>
+                <div>
+                    <i class="fa fa-home get"></i>
+                    <p>Balmatta, Mangalore, Karnataka, India pin:575002</p>
+                </div>
+                <h3>Phone</h3>
+                <div>
+                    <i class="fas fa-phone-alt get"></i>
+                    <p>(+91) 9876543210 <br> (+91) 9873216545</p>
+                </div>
+                <h3>Support</h3>
+                <div>
+                    <i class="fa fa-envelope get"></i>
+                    <p>Edupro@gmail.com <br> edupro@support.com <br> help@edupro.com</p>
+                </div>
+                <h3>Follow Us</h3>
+                <div class="pro-links">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-linkedin-in"></i>
+                    <i class="fab fa-twitter"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="form">
+            <h4>Lets Connect</h4>
+            <p>Replenish man have thing gathering lights yielding shall you</p>
+            <div class="form-row">
+                <input type="text" placeholder="Your Name">
+                <input type="text" placeholder="Your Email">
+            </div>
+            <div class="form-col">
+                <input type="text" placeholder="Subject">
+            </div>
+            <div class="form-col">
+                <textarea name="" id="" cols="30" rows="8" placeholder="How can we help?"></textarea>
+            </div>
+            <div class="form-col">
+                <button>Send Message</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7893014.
+        743186529!2d71.83381113950198!3d14.
+        992088769438169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba35a4c37bf488f%3A0x41f1d28cd1757cd5!2sKarnataka!5e0!3m2!1sen!2sin!4v1671543834634!5m2!1sen!2sin" 
+        style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+    <footer>
+        <div class="footer-col">
+            <h3>Top Products</h3>
+            <li>Manage Reputation</li>
+            <li>Power Tool</li>
+            <li>Managed Website</li>
+            <li>Marketing Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Quick Links</h3>
+            <li>Jobs</li>
+            <li>Brand Assets</li>
+            <li>Investor Relation</li>
+            <li>Terms of Service</li>
+        </div>
+        <div class="footer-col">
+            <h3>Resources</h3>
+            <li>Guides</li>
+            <li>Research</li>
+            <li>Experts</li>
+            <li>Marketing</li>
+        </div>
+        <div class="footer-col">
+            <h3>News letter</h3>
+            <p>You can trust us. We only send promo offers</p>
+            <div class="subscribe">
+                <input type="text" placeholder="Your Email Address">
+                <a href="#" class="yellow">SUBSCRIBE</a>
+            </div>
+        </div> 
+        
+        <div class="copyright">
+            <p>Copyright ⓒ2022 All rights reserved | Designed by AKV</p>
+            <div class="pro-links">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-linkedin-in"></i>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+
+<--------------------------------------------------------STYLE.CSS------------------------------------------------------------>
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins',sans-serif;
+}
+
+/* Global tags */
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: rgb(35, 35, 85);
+}
+
+span {
+    font-size: 0.9rem;
+    color: #757373;
+}
+
+h6 {
+    font-size: 1.1rem;
+    color: rgb(24, 24, 49);
+}
+
+/* navigation */
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.1vw 8vw;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+    z-index: 999;
+}
+ 
+nav img { 
+    width: 150px;
+    cursor: pointer;
+}
+
+nav .navigation ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav .navigation ul li {
+    list-style: none;
+    margin-left: 30px;
+}
+
+nav .navigation ul li a{
+    text-decoration: none;
+    color: rgb(21, 21, 100);
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.3s ease;
+}
+
+nav .navigation ul li a.active,
+nav .navigation ul li a:hover{
+    color: red;
+}
+
+/* home */
+
+#home{
+    background-image: linear-gradient(rgba(9, 5, 54, 0.3),rgba(5, 4, 46, 0.7)),url("D:/web pro/img/back.jpeg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#home h2{
+    color: #fff;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+}
+
+#home p {
+    width: 50%;
+    color: #fff;
+    font-size: 0.9rem;
+    line-height: 25px;
+}
+
+#home .btn{
+    margin-top: 30px;
+}
+
+#home a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+#home a.blue{
+    color: #fff;
+    background: rgb(21, 21, 100);
+    transition: 0.3s ease;
+}
+
+#home a.blue:hover {
+    color: rgb(21, 21, 100);
+    background: #fff;
+}
+
+#home a.yellow{
+    color: #fff;
+    background: #fdc93b;
+    transition: 0.3s ease;
+}
+
+#home a.yellow:hover {
+    color: rgb(21, 21, 100);
+    background: #fff;
+}
+
+/* features */
+
+#features {
+    padding: 5vw 8vw 0 8vw;
+    text-align: center;
+}
+
+#features .fea-base {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+#features .fea-box {
+    background-color: #f9f9ff;
+    text-align: start;
+}
+
+#features .fea-box i{
+    font-size: 2.3rem;
+    color: rgb(44, 44, 80);
+}
+
+#features .fea-box h3{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(46, 46, 59);
+    padding: 13px 0 7px 0;
+}
+
+#features .fea-box p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb(70, 70, 87);
+}
+
+/* course */
+
+#course {
+    padding: 8vw 8vw 8vw 8vw;
+    text-align: center;
+}
+
+#course .course-box{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+#course .courses{
+    text-align: start;
+    background: #f9f9ff;
+    height: 100%;
+    position: relative;
+}
+
+#course .courses img{
+    width: 100%;
+    height: 60%;
+    background-size: cover;
+    background-position: center;
+}
+
+#course .courses .details {
+    padding: 15px 15px 0 15px;
+}
+
+#course .courses .details i{
+    color: #fdc93b;
+    font-size: .9rem;
+}
+
+#course .courses .cost {
+    background-color: rgb(74, 74, 136);
+    color: #fff;
+    line-height: 70px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    right: 15px;
+    bottom: 100px;
+}
+
+/* registration */ 
+
+#registration {
+    padding: 6vw 8vw 6vw 8vw;
+    background-image: linear-gradient(rgba(99,112,168,0.5),rgba(81,91,233,0.5)),
+    url("D:/web pro/img/s.jpeg");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#registration .reminder {
+    color: #fff;
+}
+
+#registration .reminder h1 {
+    color: #fff;
+}
+
+#registration .form {
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
+}
+
+#registration .form input {
+    margin: 15px 0;
+    padding: 15px 10px;
+    border: 1px solid rgb(84, 40, 241);
+    outline: none;
+}
+
+#registration .form input::placeholder{
+    color: #413c3c;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+#registration .form .btn{
+    margin-top: 20px;
+}
+
+#registration .form a.yellow {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+    color: #fff;
+    background: #fdc93b;
+    transition: 0.3s ease;
+}
+
+#registration .form a.yellow:hover {
+    color: rgb(21, 21, 100);
+    background: #fff;
+}
+
+/* experts */
+
+#experts {
+    padding: 8vw 8vw 8vw 8vw;
+    text-align: center;
+}
+
+#experts .expert-box {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+#experts .expert-box .profile {
+    background: #ffe6e6;
+    padding: 30px 10px ;
+}
+
+.pro-links {
+    margin-top: 10px;
+}
+
+.pro-links i {
+    padding: 10px 13px;
+    border: 1px solid rgb(21, 21, 100);
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.pro-links i:hover {
+    background: rgb(21, 21, 100);
+    color: #fff;
+    border: 1px solid rgb(21, 21, 100);
+    cursor: pointer;
+}
+
+/* footer */
+
+footer {
+    padding: 8vw;
+    background-color: #101c32;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+footer .footer-col {
+    padding-bottom: 40px;
+}
+
+footer h3 {
+    color: rgb(241, 240, 245);
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+footer li {
+    list-style: none;
+    color: #7b838a;
+    padding: 10px 0;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+footer li:hover {
+    color: rgb(241, 240, 245);
+}
+
+footer p {
+    color: #7b838a;
+}
+
+footer .subscribe {
+    margin-top: 20px;
+}
+
+footer input {
+    width: 220px;
+    padding: 15px 12px;
+    background: #334f6c;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+footer .subscribe a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 15px;
+    background-color: #fff;
+    font-weight: 600;
+}
+
+footer .subscribe a.yellow{
+    color: #fff;
+    background: #fdc93b;
+    transition: 0.3s ease;
+}
+
+footer .subscribe a.yellow:hover {
+    color: rgb(21, 21, 100);
+    background: #fff;
+}
+
+footer .copyright {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+footer .copyright p {
+    color: #fff;
+}
+
+footer .copyright .pro-links {
+    margin-top: 0px;
+}
+
+footer .copyright .pro-links i {
+    background-color: #5f7185;
+    color: #fff;
+}
+
+footer .copyright .pro-links i:hover {
+    background-color: #FDC93B;
+    color: #2c2c2c;
+}
+
+/* About */
+
+#about-home {
+    background-image: linear-gradient(rgba(9, 5, 54, 0.3),rgba(5, 4, 46, 0.7)),
+    url("D:/web pro/img/back1.jpeg");
+    width: 100%;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#about-home h2 {
+    color: #fff;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+}
+
+#about-container {
+    display: flex;
+    align-items: center;
+    padding: 8vw 8vw 2vw 8vw;
+}
+
+#about-container .about-img {
+    width: 60%;
+    padding-right: 60px;
+}
+
+#about-container .about-img  img {
+    width: 100%;
+}
+
+
+#about-container .about-text {
+    width: 40%;
+}
+
+#about-container .about-text h2{
+    color: #29303b;
+    padding: 15px;
+}
+
+#about-container .about-text p{
+    color: #687d9d;
+    font-weight: 300;
+}
+
+#about-container .about-text .about-fe{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 30px;
+}
+
+#about-container .about-text .about-fe img{
+    width: 50px;
+    background-size: cover;
+    background-position: center;
+    margin-right: 20px;
+}
+
+#about-container .about-text .about-fe .fe-text{
+    width: 90%;
+}
+
+#about-container .about-text .about-fe .fe-text h5{
+    font-size: 16px;
+    color: #29303b;
+}
+
+#trust {
+    text-align: center;
+    padding: 8vw ;
+}
+
+#trust .trust-img {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#trust .trust-img img {
+    width: 90px;
+    height: auto;
+}
+
+/* Blog page */
+
+#blog-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 8vw;
+}
+
+#blog-container .blogs {
+    width: 60%;
+}
+
+#blog-container .cate {
+    width: 30%;
+}
+
+#blog-container .cate h2{
+    padding-bottom: 7px;   
+}
+
+#blog-container .cate a {
+    text-decoration: none;
+    color: #757373;
+    font-weight: 500;
+    line-height: 45px;    
+}
+
+#blog-container .blogpost {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#blog-container .blogpost p{
+    text-align: justify;
+    padding-bottom: 60px;
+}
+
+#blog-container .blogpost .post a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: rgb(21, 21, 100);
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+#blog-container .blogs img {
+    width: 100%;
+    border-radius: 19px;
+}
+
+#blog-container .blogs .post h3 {
+    color: #29303b;
+    padding: 15px 0 10px 0;
+}
+
+#blog-container .blogs .post{
+    padding-bottom: 60px;
+}
+
+#blog-container .blogs .post p {
+    color: #757373;
+    padding-bottom: 20px;
+}
+
+#blog-container .blogs .post a{
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: rgb(21, 21, 100);
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+/* contact */
+
+#contact {
+    padding: 8vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+#contact .getin {
+    width: 350px;
+}
+
+#contact .getin h2{
+    color: #2c234d;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 0.8;
+    margin-bottom: 16px;
+}
+
+#contact .getin p {
+    color: #686875;
+    line-height: 24px;
+    margin-bottom: 33px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #e5e4ed;
+}
+
+#contact .getin h3{
+    color: #2c234d;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-bottom: 15px;
+}
+
+#contact .getin .getin-details div{
+    display: flex;
+}
+
+#contact .getin .getin-details div .get{
+    font-size: 16px;
+    line-height: 22px;
+    color: #5838fc;
+    margin-right: 20px;
+}
+
+#contact .getin .getin-details div p {
+    font-size: 14px;
+    border-bottom: none;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+#contact .getin .getin-details .pro-links i{
+    margin-right: 8px;
+}
+
+#contact .form {
+    width: 60%;
+    background: #e0d8f7;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#contact .form h4 {
+    font-size: 24px;
+    color: #2c234d;
+    line-height: 13px;
+    margin-bottom: 8px;
+}
+
+#contact .form p {
+    color: #646471;
+    line-height: 24px;
+    margin-bottom: 33px;
+}
+
+#contact .form .form-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+  
+#contact .form .form-row input{
+    width: 48%;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 3px;
+    border: none;
+    background: #fff;
+    color: #7e7c87;
+    outline: none;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+}
+  
+#contact .form .form-col input,
+#contact .form .form-col textarea{
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 3px;
+    border: none;
+    background: #fff;
+    color: #7e7c87;
+    outline: none;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+}
+
+#contact .form button{
+    font-size: 0.9rem;
+    padding: 13px 25px;
+    background: rgb(21, 21, 100);
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    color: #fff;
+}
+
+#map {
+    width: 100%;
+    height: 70vh;
+    margin-bottom: 8vw;
+}
+
+#map iframe {
+    width: 100%;
+    height: 70vh;
+}
